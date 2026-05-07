@@ -123,7 +123,7 @@ export default function Login() {
 
           <TouchableOpacity onPress={entrar}>
             <LinearGradient
-              colors={["#176ef1"]}
+              colors={["#176ef1","#0f4db5"]}
               start={{ x: 0, y: 0 }}
               end={{ x: 1, y: 0 }}
               style={{
