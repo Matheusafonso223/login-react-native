@@ -1,9 +1,9 @@
 PROJETO REACT-NATIVE
 Membros do grupo:
--Thallita Evelyn:
--Maria Clara:
--Matheus Afonso:
--Matheus Assis: 01842261
+-Thallita Evelyn Silva Sousa: 01846162
+-Maria Clara: 01608116
+-Matheus Afonso Tavares: 01799740
+-Matheus Assis Borges: 01842261
 
 Style Store
 Aplicativo mobile de loja de roupas desenvolvido com React Native e Expo. O app permite que o usuário navegue por produtos, gerencie seu perfil e simule o fluxo de compra, sem depender de banco de dados externo.
