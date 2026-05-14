@@ -35,7 +35,7 @@ Pré-requisitos:
   Aplicativo Expo Go no celular ou emulador configurado
   
   # Clone o repositório
-  git clone https://github.com/seu-usuario/login-react-native.git
+  git clone https://github.com/Matheusafonso223/login-react-native.git
   
   # Acesse a pasta do projeto
   cd login-react-native-main
